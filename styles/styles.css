@@ -22,7 +22,8 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    flex-direction: column-reverse;
+    justify-content: flex-end;
+    margin-top: auto;
   }
  
   .icon {
